@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DorisCrafts',
   tagline: 'Krafts for Kids!',
-  url: 'https://doriscrafts.com',
-  baseUrl: '/',
+  url: 'https://yakovliam.github.io',
+  baseUrl: '/doriscrafts/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'doriscrafts', // Usually your GitHub org/user name.
+  organizationName: 'yakovliam', // Usually your GitHub org/user name.
   projectName: 'doriscrafts', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
