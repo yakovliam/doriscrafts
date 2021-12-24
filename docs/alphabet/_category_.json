@@ -1,0 +1,9 @@
+{
+  "position": 3,
+  "label": "Alphabet",
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Alphabet Index"
+  }
+}
