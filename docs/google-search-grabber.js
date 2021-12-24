@@ -18,10 +18,10 @@ const IFrame = ({
     )
 }
 const SearchedImages = (props) => {
-    console.log("Props: " + props);
+    console.log("Props: " + JSON.stringify(props));
     let items = [...new Set(props.results)];
 
-    console.log("Items: " + items)
+    console.log("Items: " + JSON.stringify(items));
 
     const printIframe = (id) => {
         const iframe = document.frames
