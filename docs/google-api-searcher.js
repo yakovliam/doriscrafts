@@ -58,6 +58,7 @@ export default class GoogleImageSearch {
                             let url = i.getAttribute("src2");
                             url = this.removeURLParameter(url, "w");
                             url = this.removeURLParameter(url, "h");
+                            console.log("Fetching image with src: " + url);
                             imgSrcs.push(url);
                         }
                     })
