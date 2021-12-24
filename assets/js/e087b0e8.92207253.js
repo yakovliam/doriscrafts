@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoriscrafts=self.webpackChunkdoriscrafts||[]).push([[295],{2341:function(s){s.exports={blogPosts:[]}}}]);
