@@ -31,10 +31,7 @@ function uniq(a) {
 }
 
 const SearchedImages = (props) => {
-    console.log("Props: " + JSON.stringify(props));
     let items = uniq(props.results);
-
-    console.log("Items: " + JSON.stringify(items));
 
     const printIframe = (id) => {
         const iframe = document.frames
@@ -51,7 +48,6 @@ const SearchedImages = (props) => {
     return (
         <div style={{display: "flex", justifyContent: "center", alignItems: "flex-start", flexWrap: "wrap"}}>
             {items.map((item, index) => {
-                console.log("Displaying image with src: " + item.url);
                 return (
                     <div key={index} onClick={() => printIframe(index)} style={{margin: "5px"}}
                          className="card shadow--tl hvr-grow-shadow">
