@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {GoogleImageSearchGrabber} from "./google-search-grabber";
+import {SearchedImageGalleryContainer} from "./SearchedImagesGallery";
 
 export const Search = () => {
     const [isSearch, setIsSearch] = useState(false);
@@ -20,10 +20,10 @@ export const Search = () => {
     return (
         <div>
             <div className={"navbar__search"}>
-                <input className={"navbar__search-input"} onChange={handleChange} placeholder="Search Printables"/>
-                <button className={"button button--primary"} onClick={() => search()}>Search</button>
+                <input className={"navbar__search-input"} style={{width: "100%"}} onChange={handleChange} placeholder="Search Printables"/>
+                <button className={"button button--primary"} style={{marginTop: "15px"}} onClick={() => search()}>Search</button>
                 <div style={{marginTop: "20px"}}>
-                    {isSearch ? <GoogleImageSearchGrabber query={query}/> : null}
+                    {isSearch ? <SearchedImageGalleryContainer query={query}/> : null}
                 </div>
             </div>
         </div>

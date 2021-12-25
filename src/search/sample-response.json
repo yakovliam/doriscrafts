@@ -1,0 +1,1678 @@
+{
+  "_type": "Images",
+  "instrumentation": {
+    "_type": "ResponseInstrumentation"
+  },
+  "readLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar",
+  "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar&FORM=OIIARP",
+  "queryContext": {
+    "originalQuery": "Crowbar",
+    "alterationDisplayQuery": "crowbar",
+    "alterationOverrideQuery": "+Crowbar",
+    "alterationMethod": "AM_JustChangeIt",
+    "alterationType": "CombinedAlterationsChained"
+  },
+  "totalEstimatedMatches": 1000,
+  "nextOffset": 37,
+  "currentOffset": 0,
+  "value": [
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=7252342F333BD439F7764A12BC524240E3CDC8B1&simid=608039435116635163",
+      "name": "Free Crowbar Stock Photo - FreeImages.com",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.egs0gzZfFfW3mBcxD5L7DAHaFr&pid=Api",
+      "datePublished": "2021-03-12T05:10:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://images.freeimages.com/images/large-previews/39e/crowbar-1215968.jpg",
+      "hostPageUrl": "https://www.freeimages.com/photo/crowbar-1215968",
+      "contentSize": "77211 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.freeimages.com/photo/crowbar-1215968",
+      "width": 1476,
+      "height": 1132,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.kBAB2PSjXwqoQOXNrv80AA&pid=Api",
+      "hostPageDomainFriendlyName": "freeImages",
+      "hostPageDiscoveredDate": "2017-12-15T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 363
+      },
+      "imageInsightsToken": "ccid_egs0gzZf*cp_5A0A03F6B52D6CE9744EF3FC86CF3D15*mid_7252342F333BD439F7764A12BC524240E3CDC8B1*simid_608039435116635163*thid_OIP.egs0gzZfFfW3mBcxD5L7DAHaFr",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 25,
+        "availableSizesCount": 12
+      },
+      "imageId": "7252342F333BD439F7764A12BC524240E3CDC8B1",
+      "accentColor": "BBB410"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=D047B92702AE36F5886F04D06FC1518F41DA645F&simid=608006076112116090",
+      "name": "Crowbar - Scare Products",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.AM6zNv9yn5DQNEEZ13HSUwHaHa&pid=Api",
+      "datePublished": "2020-05-13T04:50:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://scareproducts.com/wp-content/uploads/2017/12/scareproducts-826.jpg",
+      "hostPageUrl": "https://scareproducts.com/shop/crowbar/",
+      "contentSize": "704309 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://scareproducts.com/shop/crowbar",
+      "width": 4167,
+      "height": 4167,
+      "hostPageDiscoveredDate": "2018-04-08T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_AM6zNv9y*cp_E5244128AF0504524176C5044E5FBABB*mid_D047B92702AE36F5886F04D06FC1518F41DA645F*simid_608006076112116090*thid_OIP.AM6zNv9yn5DQNEEZ13HSUwHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 3
+      },
+      "imageId": "D047B92702AE36F5886F04D06FC1518F41DA645F",
+      "accentColor": "B48B17"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=04CC90DAB27B259BBB0D796883FB3D15C3472DD1&simid=607986774541078505",
+      "name": "[FS] Crowbar : supremeclothing",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.JZWFQSN6iPlDISX-57FnDgHaFj&pid=Api",
+      "datePublished": "2021-07-07T12:17:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://i.redd.it/8xyejw06mxp01.jpg",
+      "hostPageUrl": "https://www.reddit.com/r/supremeclothing/comments/89rx3w/fs_crowbar/",
+      "contentSize": "902429 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.reddit.com/r/supremeclothing/comments/89rx3w/fs_crowbar",
+      "width": 4032,
+      "height": 3024,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.H9fefaD85JY_d1pf24lNtQ&pid=Api",
+      "hostPageDomainFriendlyName": "Reddit",
+      "hostPageDiscoveredDate": "2018-04-24T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_JZWFQSN6*cp_090CFCEF7E7A0FAB881B7B4842326396*mid_04CC90DAB27B259BBB0D796883FB3D15C3472DD1*simid_607986774541078505*thid_OIP.JZWFQSN6iPlDISX-57FnDgHaFj",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "04CC90DAB27B259BBB0D796883FB3D15C3472DD1",
+      "accentColor": "9F2C3E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=81008E0B54B2A1F0C5EE4613E18262AD1C2D0A47&simid=608043266230745192",
+      "name": "CROWBAR (600mm/750mm) – Tolsen Tools Philippines",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.3uUbG-2v1xyhoNtmHFniBwHaFN&pid=Api",
+      "datePublished": "2021-03-19T15:46:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http://cdn.shopify.com/s/files/1/0016/5032/7651/products/25109_1200x1200.jpg?v=1550637569",
+      "hostPageUrl": "https://tolsen.com.ph/products/crowbar-600mm-750mm",
+      "contentSize": "34584 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://tolsen.com.ph/products/crowbar-600mm-750mm",
+      "width": 1200,
+      "height": 845,
+      "hostPageDiscoveredDate": "2019-12-20T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 333
+      },
+      "imageInsightsToken": "ccid_3uUbG+2v*cp_124207533660C072AF1A0C0B5DD8B06F*mid_81008E0B54B2A1F0C5EE4613E18262AD1C2D0A47*simid_608043266230745192*thid_OIP.3uUbG-2v1xyhoNtmHFniBwHaFN",
+      "insightsMetadata": {
+        "pagesIncludingCount": 10,
+        "availableSizesCount": 10
+      },
+      "imageId": "81008E0B54B2A1F0C5EE4613E18262AD1C2D0A47",
+      "accentColor": "C47C07"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=81008E0B54B2A1F0C5EECA1CA8B8194D196B10F5&simid=608039044275900528",
+      "name": "CROWBAR (600mm/750mm) – Tolsen Tools Philippines",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.oYz9zLjhH8O6c_8OSaDcQQHaFN&pid=Api",
+      "datePublished": "2021-03-19T15:46:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://cdn.shopify.com/s/files/1/0016/5032/7651/products/25109_1024x1024.jpg?v=1550637569",
+      "hostPageUrl": "https://tolsen.com.ph/products/crowbar-600mm-750mm",
+      "contentSize": "26848 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://tolsen.com.ph/products/crowbar-600mm-750mm",
+      "width": 1024,
+      "height": 721,
+      "hostPageDiscoveredDate": "2019-12-20T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 333
+      },
+      "imageInsightsToken": "ccid_oYz9zLjh*cp_A804BFBCA38A679C7EB695C799E641DD*mid_81008E0B54B2A1F0C5EECA1CA8B8194D196B10F5*simid_608039044275900528*thid_OIP.oYz9zLjhH8O6c!_8OSaDcQQHaFN",
+      "insightsMetadata": {
+        "pagesIncludingCount": 10,
+        "availableSizesCount": 10
+      },
+      "imageId": "81008E0B54B2A1F0C5EECA1CA8B8194D196B10F5",
+      "accentColor": "C47A07"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=FE53C9C8209C9AF52869D56DA686E08BA4AF411B&simid=607991782474854508",
+      "name": "Crowbar used in North Bay attack - Sudbury.com",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.ddZNGLlVSJHrdKF5Llw5wgHaE8&pid=Api",
+      "datePublished": "2021-04-04T14:37:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://www.vmcdn.ca/f/files/baytoday/images/police/crowbar-adobestock_510744-2017.jpg;w=960",
+      "hostPageUrl": "https://www.sudbury.com/around-the-north/crowbar-used-in-north-bay-attack-753572",
+      "contentSize": "41102 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.sudbury.com/around-the-north/crowbar-used-in-north-bay-attack-753572",
+      "width": 960,
+      "height": 640,
+      "hostPageDiscoveredDate": "2017-11-12T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_ddZNGLlV*cp_EE54B0AF472A98C384261E56946A27EA*mid_FE53C9C8209C9AF52869D56DA686E08BA4AF411B*simid_607991782474854508*thid_OIP.ddZNGLlVSJHrdKF5Llw5wgHaE8",
+      "insightsMetadata": {
+        "pagesIncludingCount": 10,
+        "availableSizesCount": 9
+      },
+      "imageId": "FE53C9C8209C9AF52869D56DA686E08BA4AF411B",
+      "accentColor": "5B5144"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=F8303CAA5E7AAD95FE3F68A88177868D7150D028&simid=608008648786538352",
+      "name": "Adjustable Crowbar With Nail Puller - SBVTools",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.gtedbfMCHN20cs7hkbkmawHaHa&pid=Api",
+      "datePublished": "2021-03-01T07:10:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://mlbk8xnmhomu.i.optimole.com/fXBl89E.ovuG~492b/w:auto/h:auto/q:90/https://sbvtools.com/wp-content/uploads/2020/02/Adjustable-Crowbar-With-Nail-Puller_1000_8-min.jpg",
+      "hostPageUrl": "https://sbvtools.com/product/adjustable-crowbar-with-nail-puller/",
+      "contentSize": "29528 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://sbvtools.com/product/adjustable-crowbar-with-nail-puller",
+      "width": 1000,
+      "height": 1000,
+      "hostPageDiscoveredDate": "2020-10-10T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_gtedbfMC*cp_5C4A7D9E48536114C416E73BEE22731C*mid_F8303CAA5E7AAD95FE3F68A88177868D7150D028*simid_608008648786538352*thid_OIP.gtedbfMCHN20cs7hkbkmawHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "F8303CAA5E7AAD95FE3F68A88177868D7150D028",
+      "accentColor": "126441"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=06DFDC04A98AAEE8E96C113DEF1F7632D18F4FBA&simid=608030291134143792",
+      "name": "Why Is An Iron Lever Called a “Crowbar”? | Mental Floss",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.v0fF-81Ga2Jc_PwmRt7axgHaEK&pid=Api",
+      "datePublished": "2019-10-07T16:12:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555445559/shape/mentalfloss/istock_000027898872_small.jpg?itok=M7zTUVEQ",
+      "hostPageUrl": "http://mentalfloss.com/article/62516/why-iron-lever-called-crowbar",
+      "contentSize": "64940 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "mentalfloss.com/article/62516/why-iron-lever-called-crowbar",
+      "width": 2220,
+      "height": 1248,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.sBf0e_8EireVoe_Gce7Slw&pid=Api",
+      "hostPageDomainFriendlyName": "Mental Floss",
+      "hostPageDiscoveredDate": "2015-03-31T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 266
+      },
+      "imageInsightsToken": "ccid_v0fF+81G*cp_448512A0E40BA33B088D5BE66C016FF3*mid_06DFDC04A98AAEE8E96C113DEF1F7632D18F4FBA*simid_608030291134143792*thid_OIP.v0fF-81Ga2Jc!_PwmRt7axgHaEK",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "06DFDC04A98AAEE8E96C113DEF1F7632D18F4FBA",
+      "accentColor": "517A7A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=F8303CAA5E7AAD95FE3F4F414B53BEE757567C84&simid=607993242747617451",
+      "name": "Adjustable Crowbar With Nail Puller - SBVTools",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.AJBSwljLdpCU9Pds7t-ikgHaHa&pid=Api",
+      "datePublished": "2021-03-01T07:10:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://mlbk8xnmhomu.i.optimole.com/fXBl89E.ovuG~492b/w:auto/h:auto/q:90/https://sbvtools.com/wp-content/uploads/2020/02/Adjustable-Crowbar-With-Nail-Puller_1000_5-min.jpg",
+      "hostPageUrl": "https://sbvtools.com/product/adjustable-crowbar-with-nail-puller/",
+      "contentSize": "49959 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://sbvtools.com/product/adjustable-crowbar-with-nail-puller",
+      "width": 1000,
+      "height": 1000,
+      "hostPageDiscoveredDate": "2020-10-10T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_AJBSwljL*cp_256A24387DFF35225762E77FF93D8FD1*mid_F8303CAA5E7AAD95FE3F4F414B53BEE757567C84*simid_607993242747617451*thid_OIP.AJBSwljLdpCU9Pds7t-ikgHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "F8303CAA5E7AAD95FE3F4F414B53BEE757567C84",
+      "accentColor": "886743"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=3777FDB9DCABAB647EDC127728B7B46E102361D3&simid=608044451637100759",
+      "name": "Crowbar - Standard products catalogue IFRC ICRC",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.db1_ttADuSMtJFNoaKHgAwHaFj&pid=Api",
+      "datePublished": "2018-11-04T20:28:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http://itemscatalogue.redcross.int/upload/products_data/images/big/ETOOCROBA300-art.jpg",
+      "hostPageUrl": "http://itemscatalogue.redcross.int/detail.aspx?itemcode=ETOOCROBA300&from=kit",
+      "contentSize": "242113 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "itemscatalogue.redcross.int/detail.aspx?itemcode=ETOOCROBA300&from=kit",
+      "width": 760,
+      "height": 570,
+      "hostPageDiscoveredDate": "2017-12-14T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 355
+      },
+      "imageInsightsToken": "ccid_db1/ttAD*cp_5153AFC8CFC4D9DE9A0E0D6E8EF16A7B*mid_3777FDB9DCABAB647EDC127728B7B46E102361D3*simid_608044451637100759*thid_OIP.db1!_ttADuSMtJFNoaKHgAwHaFj",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 1
+      },
+      "imageId": "3777FDB9DCABAB647EDC127728B7B46E102361D3",
+      "accentColor": "574E42"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=DAD6E1281A81A68DA9C4CAB816F62885CE008859&simid=607988939191308241",
+      "name": "FINISHED Half-Life crowbar prop! : HalfLife",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.WsPphAuNou55iaQcg-h-GAHaNK&pid=Api",
+      "datePublished": "2021-07-10T21:53:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://preview.redd.it/vvtb46zszis21.jpg?auto=webp&s=11457d297019fb75e77fb5039c7576e6031be1b5",
+      "hostPageUrl": "https://www.reddit.com/r/HalfLife/comments/bdntf0/finished_halflife_crowbar_prop/",
+      "contentSize": "676711 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.reddit.com/r/HalfLife/comments/bdntf0/finished_halflife_crowbar_prop",
+      "width": 2322,
+      "height": 4128,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.H9fefaD85JY_d1pf24lNtQ&pid=Api",
+      "hostPageDomainFriendlyName": "Reddit",
+      "hostPageDiscoveredDate": "2019-04-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 842
+      },
+      "imageInsightsToken": "ccid_WsPphAuN*cp_802BEC01EB7D7BCDC0ED5E3867752137*mid_DAD6E1281A81A68DA9C4CAB816F62885CE008859*simid_607988939191308241*thid_OIP.WsPphAuNou55iaQcg-h-GAHaNK",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "DAD6E1281A81A68DA9C4CAB816F62885CE008859",
+      "accentColor": "C36B08"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=780B078BDD31EAD477609974AC812906302B999C&simid=608014962390220960",
+      "name": "Crowbar - Blender Market",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP._f8_LPq5rP4_8xqwvOrkZwHaHa&pid=Api",
+      "datePublished": "2020-11-08T20:01:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://d1231c29xbpffx.cloudfront.net/store/product/155087/image/xlarge-4859e96b6798d0d2ba340fc54e1853fa.jpg?Expires=1604866384&Signature=cE2vIjZwz9B7rAqewrRCu528kyMvMVhdlTz5pUnSzf48Ozr8BUWzJk4G2e~jH6fjnVy8EZK2VbR-2uvHePybsGuOSrLQ-qrcxchl9VZ4rIY5bBs~GiP-opiUbkKSIGBzffO3QebJ5RRNeQGaGqTKKLwEQtiymVXhrpIRAJuYEgEQmLe-QU0REPxr2Y4AY6lk~BrfzcVg7qoyaxaLLrUZGJdbjIv3PRpMvQeo1gArkmaVOGUxxj1z1zD5zUmJgrgdq4Aea~wqJTzgkODxHhrDshGsMuM92skEA~EP8KlJqXACraPrXVFEZwd0Dom8h~0~apF-2bJ6rGXr-E--vVVUjA__&Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ",
+      "hostPageUrl": "https://blendermarket.com/products/crowbar",
+      "contentSize": "160595 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://blendermarket.com/products/crowbar",
+      "width": 1200,
+      "height": 1200,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.gD2H7UFWIuRVFpEw9YvqhQ&pid=Api",
+      "hostPageDiscoveredDate": "2019-06-02T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_/f8/LPq5*cp_3CA6E195728B156C7ED955EC2841698E*mid_780B078BDD31EAD477609974AC812906302B999C*simid_608014962390220960*thid_OIP.!_f8!_LPq5rP4!_8xqwvOrkZwHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 1
+      },
+      "imageId": "780B078BDD31EAD477609974AC812906302B999C",
+      "accentColor": "BFC109"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=AF25A93BF6069D1FC00DD131B300F3F2205948C2&simid=608050322861589747",
+      "name": "Crowbar 3D model low-poly | CGTrader",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.amqpQdfb22Kpb66QGWKMdAHaEK&pid=Api",
+      "datePublished": "2020-11-04T17:50:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://img-new.cgtrader.com/items/978742/4df12922ca/crowbar-3d-model-low-poly-max-obj-fbx.jpg",
+      "hostPageUrl": "https://www.cgtrader.com/3d-models/industrial/tool/crowbar-b21e5f95-e235-4ddb-bc85-2689b8fda972",
+      "contentSize": "83527 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.cgtrader.com/3d-models/industrial/tool/crowbar-b21e5f95-e235-4ddb-bc85...",
+      "width": 1920,
+      "height": 1080,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.VD__fEyfXq0ZWXk-D6o3aw&pid=Api",
+      "hostPageDomainFriendlyName": "CGTrader",
+      "hostPageDiscoveredDate": "2019-01-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 266
+      },
+      "imageInsightsToken": "ccid_amqpQdfb*cp_C3A8872298A30D578683CDDFAF8CA5B8*mid_AF25A93BF6069D1FC00DD131B300F3F2205948C2*simid_608050322861589747*thid_OIP.amqpQdfb22Kpb66QGWKMdAHaEK",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "AF25A93BF6069D1FC00DD131B300F3F2205948C2",
+      "accentColor": "733331"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=6DDB8A80644B694084822CB3A91B63A3B90CCC80&simid=608018054767124524",
+      "name": "» Love…is a new crowbar. pronounced for-nuh-bye-oh",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.ZaVB-fsPph5yI-la4IlydQHaE8&pid=Api",
+      "datePublished": "2013-07-03T07:46:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http://joefornabaio.com/blog/wp-content/uploads/2012/01/crowbar_JF_7937.jpg",
+      "hostPageUrl": "http://joefornabaio.com/blog/2012/01/love-is-a-new-crowbar/",
+      "contentSize": "36872 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "joefornabaio.com/blog/2012/01/love-is-a-new-crowbar",
+      "width": 1200,
+      "height": 800,
+      "hostPageDiscoveredDate": "2013-07-03T07:46:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 316
+      },
+      "imageInsightsToken": "ccid_ZaVB+fsP*cp_35D3C13118FAABAC83EFD6308ADA04D7*mid_6DDB8A80644B694084822CB3A91B63A3B90CCC80*simid_608018054767124524*thid_OIP.ZaVB-fsPph5yI-la4IlydQHaE8",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 2
+      },
+      "imageId": "6DDB8A80644B694084822CB3A91B63A3B90CCC80",
+      "accentColor": "C0940B"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=AB71ABD9486C9FB6A9B007C421DD2E987D9DF383&simid=608021370485810774",
+      "name": "Stunt Kit: Rubber Crowbar | The Specialists LTD | The ...",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP._PCS7VuLNWspOXSij069IwHaEL&pid=Api",
+      "datePublished": "2012-06-16T05:07:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http://www.weaponspecialists.com/files/Stunt_Kit-Crowbar.jpg",
+      "hostPageUrl": "http://www.weaponspecialists.com/stunt-kit-rubber-crowbar",
+      "contentSize": "266375 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.weaponspecialists.com/stunt-kit-rubber-crowbar",
+      "width": 3398,
+      "height": 1920,
+      "hostPageDiscoveredDate": "2012-06-16T05:07:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 267
+      },
+      "imageInsightsToken": "ccid_/PCS7VuL*cp_76038608FA2E049DF2C8442010636D19*mid_AB71ABD9486C9FB6A9B007C421DD2E987D9DF383*simid_608021370485810774*thid_OIP.!_PCS7VuLNWspOXSij069IwHaEL",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 4,
+        "availableSizesCount": 1
+      },
+      "imageId": "AB71ABD9486C9FB6A9B007C421DD2E987D9DF383",
+      "accentColor": "201E1B"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=6C9349531BBF4561F5414CD5E2A737DBBFF307EB&simid=607998869155691481",
+      "name": "Hexagon Crowbar 65 x 1-Inch - 5CB165025 | Klein Tools ...",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.0JTTA1h0C2BMowtbuPvXPQHaHa&pid=Api",
+      "datePublished": "2019-10-31T04:52:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://www.kleintools.com/sites/all/product_assets/catalog_imagery/klein/5cb.jpg",
+      "hostPageUrl": "https://www.kleintools.com/catalog/crowbars-hexagon/hexagon-crowbar-65-x-1-inch",
+      "contentSize": "31470 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.kleintools.com/catalog/crowbars-hexagon/hexagon-crowbar-65-x-1-inch",
+      "width": 1000,
+      "height": 1000,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.9i33zpbbjARWQ3yLyAvIqg&pid=Api",
+      "hostPageDomainFriendlyName": "Klein Tools",
+      "hostPageDiscoveredDate": "2018-09-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_0JTTA1h0*cp_0CBC70F9907DC3661950E12AF6105181*mid_6C9349531BBF4561F5414CD5E2A737DBBFF307EB*simid_607998869155691481*thid_OIP.0JTTA1h0C2BMowtbuPvXPQHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 27871,
+        "availableSizesCount": 4607
+      },
+      "imageId": "6C9349531BBF4561F5414CD5E2A737DBBFF307EB",
+      "accentColor": "202949"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=396B11DF0D364DF16587F3870C63FC3B2E630A23&simid=608012664592616972",
+      "name": "Crowbar | VS Battles Wiki | Fandom",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.RnG6GTlm0bKx4Ig2W2wapwHaHa&pid=Api",
+      "datePublished": "2020-06-06T01:15:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://vignette.wikia.nocookie.net/vsbattles/images/2/25/1572041542527.png/revision/latest?cb=20191025221604",
+      "hostPageUrl": "https://vsbattles.fandom.com/wiki/Crowbar",
+      "contentSize": "147113 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://vsbattles.fandom.com/wiki/Crowbar",
+      "width": 961,
+      "height": 961,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.h6Z8bqOJfczhG5Knfzp58A&pid=Api",
+      "hostPageDomainFriendlyName": "Fandom",
+      "hostPageDiscoveredDate": "2019-10-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_RnG6GTlm*cp_CA8439F9DBFE8A69ED6F3AB948498A29*mid_396B11DF0D364DF16587F3870C63FC3B2E630A23*simid_608012664592616972*thid_OIP.RnG6GTlm0bKx4Ig2W2wapwHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 6,
+        "availableSizesCount": 7
+      },
+      "imageId": "396B11DF0D364DF16587F3870C63FC3B2E630A23",
+      "accentColor": "BD1C0E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=088DA7795474F9060E3ACAD81138F7842CAA13ED&simid=608035775804571068",
+      "name": "crowbar - YouTube",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.86EUA0HqKxlwO9FlR8OWcwHaHa&pid=Api",
+      "datePublished": "2020-05-04T18:37:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://yt3.ggpht.com/a/AATXAJxHEX6HMxkknsbIhlHP84NtkNnb86F5LC5ExQ=s900-c-k-c0xffffffff-no-rj-mo",
+      "hostPageUrl": "https://www.youtube.com/channel/UCqTVIPEby-_FynrIgf06wBg",
+      "contentSize": "90277 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.youtube.com/channel/UCqTVIPEby-_FynrIgf06wBg",
+      "width": 900,
+      "height": 900,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.FN1SZscHib3IBjZN9FhjNQ&pid=Api",
+      "hostPageDomainFriendlyName": "YouTube",
+      "hostPageDiscoveredDate": "2017-12-09T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_86EUA0Hq*cp_18D54A8989033BACC74C2E0F4466E720*mid_088DA7795474F9060E3ACAD81138F7842CAA13ED*simid_608035775804571068*thid_OIP.86EUA0HqKxlwO9FlR8OWcwHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "088DA7795474F9060E3ACAD81138F7842CAA13ED",
+      "accentColor": "6C2F2F"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=634AB1C730AA2A89123C19AE7CFA9A088685CC95&simid=608028375583254543",
+      "name": "Crowbar - Official Scum Wiki",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.SJDuLStv5cpctzUXhQ4GlgAAAA&pid=Api",
+      "datePublished": "2020-06-21T20:53:00.0000000Z",
+      "isFamilyFriendly": true,
+      "creativeCommons": "AttributionNonCommercialShareAlike",
+      "contentUrl": "https://gamepedia.cursecdn.com/scum_gamepedia_en/c/c0/Crowbar.png",
+      "hostPageUrl": "https://scum.gamepedia.com/Crowbar",
+      "contentSize": "263137 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://scum.gamepedia.com/Crowbar",
+      "width": 256,
+      "height": 256,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.tkI-trMatsP0J22F8evJtw&pid=Api",
+      "hostPageDomainFriendlyName": "Gamepedia",
+      "hostPageDiscoveredDate": "2018-10-04T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 256,
+        "height": 256
+      },
+      "imageInsightsToken": "ccid_SJDuLStv*cp_6B696EA85630FA471E386FE1C1660BB5*mid_634AB1C730AA2A89123C19AE7CFA9A088685CC95*simid_608028375583254543*thid_OIP.SJDuLStv5cpctzUXhQ4GlgAAAA",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "634AB1C730AA2A89123C19AE7CFA9A088685CC95",
+      "accentColor": "A34228"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=CFCC976068419680E13FF2729B7E73FEFB9FAE92&simid=608030699155319660",
+      "name": "Kixclusive - Supreme Crowbar",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.FP_mRvQl4Ba8rsVWuvBexgHaE7&pid=Api",
+      "datePublished": "2020-07-01T09:50:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "http://www.kixclusive.com/images/Product/medium/2187.jpg",
+      "hostPageUrl": "http://www.kixclusive.com/p-2187-supreme-crowbar.aspx",
+      "contentSize": "38409 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.kixclusive.com/p-2187-supreme-crowbar.aspx",
+      "width": 650,
+      "height": 433,
+      "hostPageDiscoveredDate": "2017-11-30T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 315
+      },
+      "imageInsightsToken": "ccid_FP/mRvQl*cp_388B2634A47CB447D37CA5846E78C635*mid_CFCC976068419680E13FF2729B7E73FEFB9FAE92*simid_608030699155319660*thid_OIP.FP!_mRvQl4Ba8rsVWuvBexgHaE7",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "CFCC976068419680E13FF2729B7E73FEFB9FAE92",
+      "accentColor": "C2090E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=D8012D8EB3FF38C6337C07B81631B23CEB1BC9A7&simid=607998903516268244",
+      "name": "NVIDIA continues to tease, sends us a crowbar - PC Perspective",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.FN0NzKs3uwsgkIjd9nWhrAHaD1&pid=Api",
+      "datePublished": "2020-06-12T18:12:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://pcper.com/wp-content/uploads/2012/04/ec4b-crowbar2.jpg",
+      "hostPageUrl": "https://pcper.com/2012/04/nvidia-continues-to-tease-sends-us-a-crowbar/",
+      "contentSize": "149136 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://pcper.com/2012/04/nvidia-continues-to-tease-sends-us-a-crowbar",
+      "width": 1000,
+      "height": 518,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.1ANbBhAN7c6oph4J21XC9g&pid=Api",
+      "hostPageDomainFriendlyName": "PC Perspective",
+      "hostPageDiscoveredDate": "2012-04-23T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 245
+      },
+      "imageInsightsToken": "ccid_FN0NzKs3*cp_82BC38E8BD8BAF4F7F5C9C5675D10CEF*mid_D8012D8EB3FF38C6337C07B81631B23CEB1BC9A7*simid_607998903516268244*thid_OIP.FN0NzKs3uwsgkIjd9nWhrAHaD1",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "D8012D8EB3FF38C6337C07B81631B23CEB1BC9A7",
+      "accentColor": "3E4D5E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=8E87110DE77245E2852F94D1E10A5CDE9FD14F5B&simid=608034710659155965",
+      "name": "Freeman crowbar",
+      "thumbnailUrl": "https://tse2.explicit.bing.net/th?id=OIP.NhRjAfirIS6vzqgFJxjCqQHaHa&pid=Api",
+      "datePublished": "2020-03-22T15:31:00.0000000Z",
+      "isFamilyFriendly": false,
+      "contentUrl": "https://www.5zywiolow.com/shop/35736-thickbox_default/freeman-crowbar.jpg",
+      "hostPageUrl": "https://www.5zywiolow.com/shop/en/akcesoria-larpowe/weapons/calimacil/freeman-crowbar",
+      "contentSize": "68369 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.5zywiolow.com/shop/en/akcesoria-larpowe/weapons/calimacil/freeman-crowbar",
+      "width": 800,
+      "height": 800,
+      "hostPageDiscoveredDate": "2019-11-28T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_NhRjAfir*cp_9CC5027281CA27028E3007F0281E2EFD*mid_8E87110DE77245E2852F94D1E10A5CDE9FD14F5B*simid_608034710659155965*thid_OIP.NhRjAfirIS6vzqgFJxjCqQHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "8E87110DE77245E2852F94D1E10A5CDE9FD14F5B",
+      "accentColor": "AE281D"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=8A8F224228C6B6EC4D471C94A69FEEF4EB4E7D13&simid=608034006272933519",
+      "name": "Crowbar | BONEWORKS Wiki | Fandom",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.7S3gZMUfPZ8SRCjcdE2J2gHaDf&pid=Api",
+      "datePublished": "2020-06-07T14:29:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://vignette.wikia.nocookie.net/boneworks/images/c/c0/Crowbar.png/revision/latest?cb=20200217215615",
+      "hostPageUrl": "https://boneworks.fandom.com/wiki/Crowbar",
+      "contentSize": "373575 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://boneworks.fandom.com/wiki/Crowbar",
+      "width": 708,
+      "height": 334,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.cDCbMv-p-VQsqXq28kMbkQ&pid=Api",
+      "hostPageDomainFriendlyName": "Fandom",
+      "hostPageDiscoveredDate": "2019-08-22T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 223
+      },
+      "imageInsightsToken": "ccid_7S3gZMUf*cp_50BB7AA3944603E75315C23E38ACB8D0*mid_8A8F224228C6B6EC4D471C94A69FEEF4EB4E7D13*simid_608034006272933519*thid_OIP.7S3gZMUfPZ8SRCjcdE2J2gHaDf",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "8A8F224228C6B6EC4D471C94A69FEEF4EB4E7D13",
+      "accentColor": "B05E1B"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=EE37440EDA315EB687A15002702221F124D07B50&simid=608038614776874933",
+      "name": "ca $ 100 00 ca $ 109 99",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.TIWStFqzG-25RfhD2pIFtAHaLL&pid=Api",
+      "datePublished": "2021-04-02T02:43:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://cdn.shopify.com/s/files/1/3098/6414/products/f52ded7508de9727791122320cc931eb_1024x1024.jpg?v=1524854068",
+      "hostPageUrl": "https://calimacil.com/products/freeman-crowbar",
+      "contentSize": "20923 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://calimacil.com/products/freeman-crowbar",
+      "width": 637,
+      "height": 961,
+      "hostPageDiscoveredDate": "2018-08-16T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 715
+      },
+      "imageInsightsToken": "ccid_TIWStFqz*cp_6AFE9209BD2DD1ED81D11B68F14C5816*mid_EE37440EDA315EB687A15002702221F124D07B50*simid_608038614776874933*thid_OIP.TIWStFqzG-25RfhD2pIFtAHaLL",
+      "insightsMetadata": {
+        "pagesIncludingCount": 6,
+        "availableSizesCount": 4
+      },
+      "imageId": "EE37440EDA315EB687A15002702221F124D07B50",
+      "accentColor": "BC1B0F"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=0E95BB7CDAF7955B7C8646BE3898CC0C56AAFD21&simid=608051413780546256",
+      "name": "steel Crowbar 3D | CGTrader",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.pJ27mBF-CUDk8szVwg2qiwHaHa&pid=Api",
+      "datePublished": "2021-08-19T03:40:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://img1.cgtrader.com/items/140272/325dd97612/crowbar-3d-model-3ds-fbx-blend-dae.jpg",
+      "hostPageUrl": "https://www.cgtrader.com/3d-models/industrial/tool/crowbar--6",
+      "contentSize": "43685 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.cgtrader.com/3d-models/industrial/tool/crowbar--6",
+      "width": 1080,
+      "height": 1080,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.VD__fEyfXq0ZWXk-D6o3aw&pid=Api",
+      "hostPageDomainFriendlyName": "CGTrader",
+      "hostPageDiscoveredDate": "2016-02-28T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_pJ27mBF+*cp_A7B8635D2C29073EFD00985995049926*mid_0E95BB7CDAF7955B7C8646BE3898CC0C56AAFD21*simid_608051413780546256*thid_OIP.pJ27mBF-CUDk8szVwg2qiwHaHa",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "0E95BB7CDAF7955B7C8646BE3898CC0C56AAFD21",
+      "accentColor": "731C13"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=08DACB34E2107BF01A3A898C7DB3869D718B963C&simid=608029616824002993",
+      "name": "Supreme Crowbar- Red – Streetwear Official",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.D1r-lYKSigi1ejB_pO9kVAHaDu&pid=Api",
+      "datePublished": "2019-04-13T09:12:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://cdn.shopify.com/s/files/1/0866/4890/products/corw_1024x1024.jpg?v=1535016226",
+      "hostPageUrl": "https://www.streetwearofficial.com/products/supreme-crowbar-red",
+      "contentSize": "26636 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.streetwearofficial.com/products/supreme-crowbar-red",
+      "width": 1024,
+      "height": 516,
+      "hostPageDiscoveredDate": "2018-08-28T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 238
+      },
+      "imageInsightsToken": "ccid_D1r+lYKS*cp_7B7B8A7223B8F1964F7E1C268CE241C1*mid_08DACB34E2107BF01A3A898C7DB3869D718B963C*simid_608029616824002993*thid_OIP.D1r-lYKSigi1ejB!_pO9kVAHaDu",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "08DACB34E2107BF01A3A898C7DB3869D718B963C",
+      "accentColor": "C2090E"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=D59BD6A6BD793C8B31463BBE32AF06366511F86A&simid=608033108633922999",
+      "name": "Crowbar Prop",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.UH_EVh3Jz3UreB1gVyNpJAHaKl&pid=Api",
+      "datePublished": "2018-02-19T05:10:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://images.halloweencostumes.co.uk/products/31869/1-1/crowbar-prop.jpg",
+      "hostPageUrl": "http://www.halloweencostumes.co.uk/crowbar-prop.html",
+      "contentSize": "183271 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.halloweencostumes.co.uk/crowbar-prop.html",
+      "width": 1750,
+      "height": 2500,
+      "hostPageDiscoveredDate": "2017-02-14T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 677
+      },
+      "imageInsightsToken": "ccid_UH/EVh3J*cp_4BAED2F3B8977F204FC31FD9ABA31AEC*mid_D59BD6A6BD793C8B31463BBE32AF06366511F86A*simid_608033108633922999*thid_OIP.UH!_EVh3Jz3UreB1gVyNpJAHaKl",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 14,
+        "availableSizesCount": 6
+      },
+      "imageId": "D59BD6A6BD793C8B31463BBE32AF06366511F86A",
+      "accentColor": "5F666C"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=69CCABA95FC2E0161F805D8AAFD3826566ED8FC8&simid=608017719765786668",
+      "name": "Crowbar - Roblox",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.65Wndqya3gvPSGquz99BqgAAAA&pid=Api",
+      "datePublished": "2021-02-07T01:24:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://tr.rbxcdn.com/77811692f59d0fcbfea5a6c09ad6da50/420/420/Hat/Png",
+      "hostPageUrl": "https://web.roblox.com/catalog/5075188861/Crowbar",
+      "contentSize": "19500 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://web.roblox.com/catalog/5075188861/Crowbar",
+      "width": 420,
+      "height": 420,
+      "hostPageDiscoveredDate": "2020-08-02T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 420,
+        "height": 420
+      },
+      "imageInsightsToken": "ccid_65Wndqya*cp_5DCEBD068473336084B12535EB155AD3*mid_69CCABA95FC2E0161F805D8AAFD3826566ED8FC8*simid_608017719765786668*thid_OIP.65Wndqya3gvPSGquz99BqgAAAA",
+      "insightsMetadata": {
+        "pagesIncludingCount": 6184,
+        "availableSizesCount": 1820
+      },
+      "imageId": "69CCABA95FC2E0161F805D8AAFD3826566ED8FC8",
+      "accentColor": "814949"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=2A4B976416EC6D0C69C11906A300C66EA96701CF&simid=608038357082855636",
+      "name": "Supreme Tool Crowbar Red",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.TEHUaLRaHW9TWDyQtrLStQHaFS&pid=Api",
+      "datePublished": "2018-08-11T23:06:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Crowbar-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2",
+      "hostPageUrl": "https://stockx.com/supreme-crowbar-red",
+      "contentSize": "39078 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://stockx.com/supreme-crowbar-red",
+      "width": 1400,
+      "height": 1000,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.-8SvSoO2e350XGDLHagxIQ&pid=Api",
+      "hostPageDomainFriendlyName": "StockX",
+      "hostPageDiscoveredDate": "2017-11-07T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 338
+      },
+      "imageInsightsToken": "ccid_TEHUaLRa*cp_AFFA0A2C578FA7CAC23279F4A0E7D29A*mid_2A4B976416EC6D0C69C11906A300C66EA96701CF*simid_608038357082855636*thid_OIP.TEHUaLRaHW9TWDyQtrLStQHaFS",
+      "insightsMetadata": {
+        "pagesIncludingCount": 4173,
+        "availableSizesCount": 2132
+      },
+      "imageId": "2A4B976416EC6D0C69C11906A300C66EA96701CF",
+      "accentColor": "9F2C35"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=6D2AF8092CEC67914A0AACFC8D1A0D0458CC41AC&simid=608001154079489168",
+      "name": "Foam Prybar Costume Movie TV Prop Tool Pry Bar Weapon ...",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.K2qZ4nT73lz0Q27qor8ZkgHaHa&pid=Api",
+      "datePublished": "2020-07-12T10:55:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://cdn.shopify.com/s/files/1/2197/0803/products/CS-CROWBAR_1024x1024.jpg?v=1592254814",
+      "hostPageUrl": "https://treasuregurus.com/products/foam-prybar-costume-movie-tv-prop-tool-pry-bar-weapon-crowbar-cosplay-accessory",
+      "contentSize": "29128 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://treasuregurus.com/products/foam-prybar-costume-movie-tv-prop-tool-pry-bar...",
+      "width": 1024,
+      "height": 1024,
+      "hostPageDiscoveredDate": "2019-03-11T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_K2qZ4nT7*cp_4CDD082C0793A9DF85C696462CC8E740*mid_6D2AF8092CEC67914A0AACFC8D1A0D0458CC41AC*simid_608001154079489168*thid_OIP.K2qZ4nT73lz0Q27qor8ZkgHaHa",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "6D2AF8092CEC67914A0AACFC8D1A0D0458CC41AC",
+      "accentColor": "535257"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=190AD8BC4F8AE87D8EB26280496824F6FA7E55F5&simid=608015619523495267",
+      "name": "Contractor fined after crowbar mishap",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.vSwMs24nrjdXdRe8Zdx7QgAAAA&pid=Api",
+      "datePublished": "2021-02-24T17:10:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://www.theconstructionindex.co.uk/assets/news_articles/2016/12/1480927233_crowbar.jpg",
+      "hostPageUrl": "https://www.theconstructionindex.co.uk/news/view/contractor-fined-after-crowbar-mishap",
+      "contentSize": "24618 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.theconstructionindex.co.uk/news/view/contractor-fined-after-crowbar-mishap",
+      "width": 400,
+      "height": 335,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.FP3fNCFJ2MVbF605t4ED3Q&pid=Api",
+      "hostPageDomainFriendlyName": "Construction Index",
+      "hostPageDiscoveredDate": "2018-04-01T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 400,
+        "height": 335
+      },
+      "imageInsightsToken": "ccid_vSwMs24n*cp_C3AFB9F364CCF5BC9B3EA70286751F1C*mid_190AD8BC4F8AE87D8EB26280496824F6FA7E55F5*simid_608015619523495267*thid_OIP.vSwMs24nrjdXdRe8Zdx7QgAAAA",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 1
+      },
+      "imageId": "190AD8BC4F8AE87D8EB26280496824F6FA7E55F5",
+      "accentColor": "262323"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=5AF553F2F1379B66DA116F3236C133FC70D5B9ED&simid=608018419844279928",
+      "name": "Crowbar 3D Model 3DS FBX BLEND DAE | CGTrader.com",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.qnEQIMBd3beUaDA3ZWlbPAHaHa&pid=Api",
+      "datePublished": "2016-11-26T03:20:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://img2.cgtrader.com/items/140272/615b5ffd18/crowbar-3d-model-3ds-fbx-blend-dae.jpg",
+      "hostPageUrl": "http://cgtrader.com/3d-models/industrial/tool/crowbar--6",
+      "contentSize": "52404 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "cgtrader.com/3d-models/industrial/tool/crowbar--6",
+      "width": 1080,
+      "height": 1080,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.VD__fEyfXq0ZWXk-D6o3aw&pid=Api",
+      "hostPageDomainFriendlyName": "CGTrader",
+      "hostPageDiscoveredDate": "2015-07-27T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 474
+      },
+      "imageInsightsToken": "ccid_qnEQIMBd*cp_87D8D9CF7C5E75A471FC143921BCE963*mid_5AF553F2F1379B66DA116F3236C133FC70D5B9ED*simid_608018419844279928*thid_OIP.qnEQIMBd3beUaDA3ZWlbPAHaHa",
+      "insightsMetadata": {
+        "recipeSourcesCount": 0,
+        "pagesIncludingCount": 2,
+        "availableSizesCount": 2
+      },
+      "imageId": "5AF553F2F1379B66DA116F3236C133FC70D5B9ED",
+      "accentColor": "7B231A"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=676D9B892DA97870663FE725D3967DCC956459A1&simid=608052289958446939",
+      "name": "Blue Crowbar | garrysmods.org",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.yWgudGlJhbiD98LfiKa8WwHaID&pid=Api",
+      "datePublished": "2021-05-07T08:35:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://filecache.garrysmods.org/18609/1/1024x768.jpg",
+      "hostPageUrl": "https://garrysmods.org/download/18609/blue-crowbar",
+      "contentSize": "139984 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://garrysmods.org/download/18609/blue-crowbar",
+      "width": 561,
+      "height": 610,
+      "hostPageDiscoveredDate": "2017-02-14T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 515
+      },
+      "imageInsightsToken": "ccid_yWgudGlJ*cp_67C58F578FD83522831D0F66632C8398*mid_676D9B892DA97870663FE725D3967DCC956459A1*simid_608052289958446939*thid_OIP.yWgudGlJhbiD98LfiKa8WwHaID",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "676D9B892DA97870663FE725D3967DCC956459A1",
+      "accentColor": "602E21"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=4B561FA1365DC993E6284679AE4A96BF1C9B9157&simid=608031343401717964",
+      "name": "Crowbar PBR",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.4G8tUGYT_ax_rkzdVYUltgHaEK&pid=Api",
+      "datePublished": "2021-04-05T15:33:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://d27nqrvkk22y65.cloudfront.net/product_image/image/139148/big_01ad65257f.jpg",
+      "hostPageUrl": "https://cubebrush.co/janusbuch/products/sgw96q/crowbar-pbr",
+      "contentSize": "101418 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://cubebrush.co/janusbuch/products/sgw96q/crowbar-pbr",
+      "width": 1500,
+      "height": 844,
+      "hostPageDiscoveredDate": "2021-03-19T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 266
+      },
+      "imageInsightsToken": "ccid_4G8tUGYT*cp_98941E127E958570FB5FFDA1E4BCA67C*mid_4B561FA1365DC993E6284679AE4A96BF1C9B9157*simid_608031343401717964*thid_OIP.4G8tUGYT!_ax!_rkzdVYUltgHaEK",
+      "insightsMetadata": {
+        "pagesIncludingCount": 3,
+        "availableSizesCount": 2
+      },
+      "imageId": "4B561FA1365DC993E6284679AE4A96BF1C9B9157",
+      "accentColor": "933A38"
+    },
+    {
+      "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=Crowbar&id=C781A47D58BA388E7283B9AF4361D264387191A6&simid=608002511284230193",
+      "name": "Rusty Crowbar 3D model | CGTrader",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.uXAB3lbKdyt9i5vu2SWGLwHaEc&pid=Api",
+      "datePublished": "2020-09-08T14:33:00.0000000Z",
+      "isFamilyFriendly": true,
+      "contentUrl": "https://img1.cgtrader.com/items/857686/06bab28a75/rusty-crowbar-3d-model-blend.jpg",
+      "hostPageUrl": "https://www.cgtrader.com/3d-models/industrial/tool/rusty-crowbar",
+      "contentSize": "46398 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "https://www.cgtrader.com/3d-models/industrial/tool/rusty-crowbar",
+      "width": 1500,
+      "height": 900,
+      "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.VD__fEyfXq0ZWXk-D6o3aw&pid=Api",
+      "hostPageDomainFriendlyName": "CGTrader",
+      "hostPageDiscoveredDate": "2018-05-21T00:00:00.0000000Z",
+      "thumbnail": {
+        "width": 474,
+        "height": 284
+      },
+      "imageInsightsToken": "ccid_uXAB3lbK*cp_02F148F07AD463AA7E059FE49498DF3E*mid_C781A47D58BA388E7283B9AF4361D264387191A6*simid_608002511284230193*thid_OIP.uXAB3lbKdyt9i5vu2SWGLwHaEc",
+      "insightsMetadata": {
+        "pagesIncludingCount": 1,
+        "availableSizesCount": 1
+      },
+      "imageId": "C781A47D58BA388E7283B9AF4361D264387191A6",
+      "accentColor": "0E0E09"
+    }
+  ],
+  "queryExpansions": [
+    {
+      "text": "Types of Crowbars",
+      "displayText": "Types",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Types+of+Crowbars&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Types%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Types+of+Crowbars&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Types%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Types+of+Crowbars&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "HL2 Crowbar",
+      "displayText": "HL2",
+      "webSearchUrl": "https://www.bing.com/images/search?q=HL2+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22HL2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=HL2+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22HL2%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=HL2+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "CROWBAR Weapon",
+      "displayText": "Weapon",
+      "webSearchUrl": "https://www.bing.com/images/search?q=CROWBAR+Weapon&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Weapon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=CROWBAR+Weapon&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Weapon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=CROWBAR+Weapon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Zombie Crowbar",
+      "displayText": "Zombie",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Zombie+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Zombie%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Zombie+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Zombie%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Zombie+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Crowbar",
+      "displayText": "Toy",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Toy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Toy+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar PNG",
+      "displayText": "PNG",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+PNG&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PNG%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+PNG&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PNG%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+PNG&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Tool",
+      "displayText": "Tool",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Tool&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tool%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Tool&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tool%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Tool&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Sizes",
+      "displayText": "Sizes",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Sizes&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Sizes%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Sizes&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Sizes%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Sizes&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Bar",
+      "displayText": "Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Bar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bar%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Bar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bar%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Steel Crowbar",
+      "displayText": "Steel",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Steel+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Steel%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Steel+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Steel%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Steel+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Vector",
+      "displayText": "Vector",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Vector&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Vector%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Vector&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Vector%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Vector&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Joke",
+      "displayText": "Joke",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Joke&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Joke%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Joke&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Joke%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+Joke&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Pickaxe",
+      "displayText": "Pickaxe",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Pickaxe&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pickaxe%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Pickaxe&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pickaxe%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Pickaxe&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Roblox Crowbar",
+      "displayText": "Roblox",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Roblox+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Roblox%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Roblox+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Roblox%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Roblox+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Fortnite",
+      "displayText": "Fortnite",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Fortnite&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fortnite%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Fortnite&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fortnite%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Fortnite&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "How to Draw a Crowbar",
+      "displayText": "How Draw",
+      "webSearchUrl": "https://www.bing.com/images/search?q=How+to+Draw+a+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22How+Draw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=How+to+Draw+a+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22How+Draw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=How+to+Draw+a+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Metal Crowbar",
+      "displayText": "Metal",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Metal+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Metal%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Metal+Crowbar&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Metal%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Metal+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar ClipArt",
+      "displayText": "Clip Art",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+ClipArt&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Clip+Art%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+ClipArt&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Clip+Art%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+ClipArt&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Transparent",
+      "displayText": "Transparent",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Transparent&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Transparent%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Transparent&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Transparent%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Transparent&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    }
+  ],
+  "pivotSuggestions": [
+    {
+      "pivot": "Crowbar",
+      "suggestions": [
+        {
+          "text": "Chisel",
+          "displayText": "Chisel",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Chisel&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chisel%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chisel&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chisel%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Chisel&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Screwdriver",
+          "displayText": "Screwdriver",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Screwdriver&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Screwdriver%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Screwdriver&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Screwdriver%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Screwdriver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Mallet",
+          "displayText": "Mallet",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Mallet&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Mallet%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Mallet&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Mallet%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Mallet&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Hacksaw",
+          "displayText": "Hacksaw",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Hacksaw&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Hacksaw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Hacksaw&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Hacksaw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Hacksaw&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Bradawl",
+          "displayText": "Bradawl",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Bradawl&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bradawl%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Bradawl&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Bradawl%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Bradawl&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Spike Maul",
+          "displayText": "Spike Maul",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Spike+Maul&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spike+Maul%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Spike+Maul&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Spike+Maul%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Spike+Maul&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "F-Clamp",
+          "displayText": "F-Clamp",
+          "webSearchUrl": "https://www.bing.com/images/search?q=F-Clamp&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22F-Clamp%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=F-Clamp&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22F-Clamp%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?q=F-Clamp&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Fretsaw",
+          "displayText": "Fretsaw",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Fretsaw&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fretsaw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Fretsaw&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Fretsaw%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Fretsaw&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Pickaxe",
+          "displayText": "Pickaxe",
+          "webSearchUrl": "https://www.bing.com/images/search?q=Pickaxe&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pickaxe%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+          "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pickaxe&tq=%7b%22pq%22%3a%22Crowbar%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22Crowbar%22%2c%22pv%22%3a%22Crowbar%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pickaxe%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Pickaxe&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+          }
+        }
+      ]
+    }
+  ],
+  "relatedSearches": [
+    {
+      "text": "Types of Crowbars",
+      "displayText": "Types of Crowbars",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Types+of+Crowbars&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Types+of+Crowbars",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Types+of+Crowbars&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "HL2 Crowbar",
+      "displayText": "HL2 Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=HL2+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=HL2+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=HL2+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "CROWBAR Weapon",
+      "displayText": "CROWBAR Weapon",
+      "webSearchUrl": "https://www.bing.com/images/search?q=CROWBAR+Weapon&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=CROWBAR+Weapon",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=CROWBAR+Weapon&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Zombie Crowbar",
+      "displayText": "Zombie Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Zombie+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Zombie+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Zombie+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crow Bar Tool",
+      "displayText": "Crow Bar Tool",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crow+Bar+Tool&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crow+Bar+Tool",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Crow+Bar+Tool&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Toy Crowbar",
+      "displayText": "Toy Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Toy+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Toy+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Toy+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Flat Crow Bar",
+      "displayText": "Flat Crow Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Flat+Crow+Bar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Flat+Crow+Bar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Flat+Crow+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Sizes",
+      "displayText": "Crowbar Sizes",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Sizes&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Sizes",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Sizes&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar PNG",
+      "displayText": "Crowbar PNG",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+PNG&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+PNG",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+PNG&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Steel Crowbar",
+      "displayText": "Steel Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Steel+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Steel+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Steel+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Flat Pry Bar",
+      "displayText": "Flat Pry Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Flat+Pry+Bar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Flat+Pry+Bar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Flat+Pry+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Joke",
+      "displayText": "Crowbar Joke",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Joke&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Joke",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+Joke&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Vector",
+      "displayText": "Crowbar Vector",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Vector&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Vector",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Vector&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Pickaxe",
+      "displayText": "Crowbar Pickaxe",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Pickaxe&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Pickaxe",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Pickaxe&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Roblox Crowbar",
+      "displayText": "Roblox Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Roblox+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Roblox+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Roblox+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "How to Draw a Crowbar",
+      "displayText": "How to Draw a Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=How+to+Draw+a+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=How+to+Draw+a+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=How+to+Draw+a+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crow Bar Art",
+      "displayText": "Crow Bar Art",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crow+Bar+Art&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crow+Bar+Art",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crow+Bar+Art&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Straight Crowbar",
+      "displayText": "Straight Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Straight+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Straight+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Straight+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Fortnite",
+      "displayText": "Crowbar Fortnite",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Fortnite&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Fortnite",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Crowbar+Fortnite&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Roller Crowbar",
+      "displayText": "Roller Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Roller+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Roller+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Roller+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Metal Crowbar",
+      "displayText": "Metal Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Metal+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Metal+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Metal+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Mini Pry Bar",
+      "displayText": "Mini Pry Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Mini+Pry+Bar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Mini+Pry+Bar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Mini+Pry+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Farm Tool",
+      "displayText": "Crowbar Farm Tool",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Farm+Tool&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Farm+Tool",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Farm+Tool&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Long Crow Bars",
+      "displayText": "Long Crow Bars",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Long+Crow+Bars&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Long+Crow+Bars",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Long+Crow+Bars&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Vintage Crowbar",
+      "displayText": "Vintage Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Vintage+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Vintage+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Vintage+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar ClipArt",
+      "displayText": "Crowbar ClipArt",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+ClipArt&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+ClipArt",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crowbar+ClipArt&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Transparent",
+      "displayText": "Crowbar Transparent",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Transparent&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Transparent",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Transparent&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crowbar Drawing",
+      "displayText": "Crowbar Drawing",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crowbar+Drawing&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crowbar+Drawing",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Crowbar+Drawing&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Black Crowbar",
+      "displayText": "Black Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Black+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Black+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Black+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Rusty Crowbar",
+      "displayText": "Rusty Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Rusty+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Rusty+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Rusty+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Different Types of Crowbars",
+      "displayText": "Different Types of Crowbars",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Different+Types+of+Crowbars&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Different+Types+of+Crowbars",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Different+Types+of+Crowbars&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Tactical Crowbar",
+      "displayText": "Tactical Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Tactical+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Tactical+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Tactical+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Wrecking Crow Bar",
+      "displayText": "Wrecking Crow Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Wrecking+Crow+Bar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Wrecking+Crow+Bar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Wrecking+Crow+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Small Crow Bar",
+      "displayText": "Small Crow Bar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Small+Crow+Bar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Small+Crow+Bar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Small+Crow+Bar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Hammer",
+      "displayText": "Hammer",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Hammer&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Hammer",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Hammer&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "HL1 Crowbar",
+      "displayText": "HL1 Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=HL1+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=HL1+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=HL1+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Iron Crowbar",
+      "displayText": "Iron Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Iron+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Iron+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Iron+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Kirk Crowbar",
+      "displayText": "Kirk Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Kirk+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Kirk+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Kirk+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Heavy Duty Crowbar",
+      "displayText": "Heavy Duty Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Heavy+Duty+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Heavy+Duty+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Heavy+Duty+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Red Crowbar",
+      "displayText": "Red Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Red+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Red+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Red+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Axe",
+      "displayText": "Axe",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Axe&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Axe",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Axe&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Half-Life Crowbar Logo",
+      "displayText": "Half-Life Crowbar Logo",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Half-Life+Crowbar+Logo&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Half-Life+Crowbar+Logo",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Half-Life+Crowbar+Logo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Wrench",
+      "displayText": "Wrench",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Wrench&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Wrench",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Wrench&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Oakley Crowbar",
+      "displayText": "Oakley Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Oakley+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Oakley+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Oakley+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Pry Bar vs Crowbar",
+      "displayText": "Pry Bar vs Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Pry+Bar+vs+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pry+Bar+vs+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Pry+Bar+vs+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Crobar Chicago",
+      "displayText": "Crobar Chicago",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Crobar+Chicago&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Crobar+Chicago",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Crobar+Chicago&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Oakley Crowbar Goggles",
+      "displayText": "Oakley Crowbar Goggles",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Oakley+Crowbar+Goggles&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Oakley+Crowbar+Goggles",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Oakley+Crowbar+Goggles&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Hatchet",
+      "displayText": "Hatchet",
+      "webSearchUrl": "https://www.bing.com/images/search?q=Hatchet&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Hatchet",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Hatchet&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "NVIDIA Crowbar",
+      "displayText": "NVIDIA Crowbar",
+      "webSearchUrl": "https://www.bing.com/images/search?q=NVIDIA+Crowbar&FORM=IRPATC",
+      "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=NVIDIA+Crowbar",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=NVIDIA+Crowbar&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+      }
+    }
+  ]
+}
