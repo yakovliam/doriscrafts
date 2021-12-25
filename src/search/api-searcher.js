@@ -8,9 +8,7 @@ export default class ImageSearch {
      */
     static async searchImage(query) {
 
-        console.log("Test");
-
-        const key = "5f36ce609da8456d8b066bfdcbd02d9d";
+        const key = process.env.REACT_APP_AK;
         const endpoint = "https://api.bing.microsoft.com/v7.0/images/search";
 
 
